@@ -1,0 +1,20 @@
+{
+  "name": "iorrah.github.io",
+  "description": "",
+  "main": "index.js",
+  "authors": [],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "MDBootstrap": "^4.4.1",
+    "typed.js": "^2.0.5",
+    "clipboard": "^1.7.1"
+  }
+}

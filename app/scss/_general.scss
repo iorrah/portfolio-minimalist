@@ -1,0 +1,21 @@
+.taller-than-monitor {
+  &,
+  body {
+    height: 100%;
+    max-height: none;
+    min-height: 100%;
+  }
+
+  header {
+    height: auto;
+    max-height: none;
+    min-height: 100%;
+  }
+}
+
+a {
+  &,
+  &:hover {
+    text-decoration: none;
+  }
+}
