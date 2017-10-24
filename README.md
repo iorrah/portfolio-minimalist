@@ -1,4 +1,4 @@
-## iorrah/iorrah.github.io
+## iorrah.com
 
 This project consists of a simple webpage.
 
@@ -34,7 +34,7 @@ gulp watch
 
 ### Deployment
 
-In order to deploy the app into the `gh-pages` branch and push it to our remote git repository (hit enter after `git remote -v` for further references):
+In order to deploy the app into the `master` branch and push it to our remote git repository (hit enter after `git remote -v` for further references):
 
 ```
 gulp deploy
